@@ -94,7 +94,7 @@ let june20 = {
 let june26 = {
     start: "Monday, June 26th, 2023",
     signback: "Friday, June 9th, 2023",
-    cadsignback:Friday, June 2nd, 2023"
+    cadsignback: "Friday, June 2nd, 2023"
 }
 
 
