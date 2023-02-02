@@ -18,6 +18,10 @@ body {
     
   }
 
+  select {
+    border-radius: 6px;
+  }
+
   .title {
     font-size: 1.2rem;
   }
@@ -40,7 +44,7 @@ body {
     margin: 10px;
     height: 300px;
     width: 350px;
-  
+    
   }
 
   button {
@@ -60,6 +64,7 @@ body {
 
   select {
     padding: 5px;
+    position: relative;
   }
 
   .sign-back-date {
