@@ -14,7 +14,7 @@ body {
   .heading {
     font-size: 3rem;
  
-    padding: 10px;  
+    padding: 100px 0 10px 0;  
     margin: 10px;
   }
 
@@ -23,7 +23,7 @@ body {
   }
 
   .spacer {
-    height: 60px;
+    height: 30px;
    
     padding: 10px;  
     margin: 10px;
@@ -48,12 +48,16 @@ body {
     margin: 20px;
     background-color: rgb(34, 33, 33);
     color: #ffffff;
-    border: 2px solid black;
+    border: 1px solid black;
     border-radius: 5px;
-    transition-delay: 1.5;
+    transition: 0.3s;
   }
 
   button:hover {
     background-color: rgb(88, 86, 82);
     cursor: pointer;
+  }
+
+  select {
+    padding: 5px;
   }
