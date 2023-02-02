@@ -13,9 +13,9 @@ body {
 
   .heading {
     font-size: 3rem;
- 
     padding: 100px 0 10px 0;  
     margin: 10px;
+    
   }
 
   .title {
@@ -31,16 +31,16 @@ body {
 
   .container {
     display: flex;
-   
     justify-content: center;
+   
   }
 
   .box {
-   
     padding: 10px;
     margin: 10px;
     height: 300px;
     width: 350px;
+  
   }
 
   button {
@@ -64,4 +64,5 @@ body {
 
   .sign-back-date {
     transition: 0.3s;
+   
   }

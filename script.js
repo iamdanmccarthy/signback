@@ -2,6 +2,11 @@ let select1 = document.getElementById('start-date');
 const displayParagraph = document.getElementById('sign-back-date');
 const displayParagraphCanada = document.getElementById('cad-sign-back-date');
 
+let feb27 = {
+    start: "February 27th, 2023",
+    signback: "Friday, February 10th, 2023",
+    cadsignback: "Friday, February 3rd, 2023"
+}
 
 let march6 = {
     start: "Monday, March 6th, 2023",
@@ -102,7 +107,8 @@ let june26 = {
 
 
 
-let dates = [march6, march13, march20, march27, april3, april0, april17, april24, may1, may8, may15, may22, may30, june5, june12, june20, june26]
+
+    let dates = [feb27, march6, march13, march20, march27, april3, april0, april17, april24, may1, may8, may15, may22, may30, june5, june12, june20, june26]
 
 for (let obj of dates) {
     let option = document.createElement("option");
