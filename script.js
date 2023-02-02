@@ -88,13 +88,13 @@ let june12 = {
 }
 let june20 = {
     start: "Tuesday, June 20th, 2023",
-    signback: "Friday, March 17th, 2023",
+    signback: "Friday, June 2nd, 2023",
     cadsignback:"Friday, May 26th, 2023"
 }
 let june26 = {
     start: "Monday, June 26th, 2023",
-    signback: "Friday, March 17th, 2023",
-    cadsignback:"Friday, March 17th, 2023"
+    signback: "Friday, June 9th, 2023",
+    cadsignback:Friday, June 2nd, 2023"
 }
 
 
